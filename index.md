@@ -1,7 +1,8 @@
 ## About
 
-Name: Yasuhiro OSAKA <br>
-University: Shibaura Institute of Technology <br>
+### Name: Yasuhiro OSAKA <br>
+
+### University: Shibaura Institute of Technology <br>
 
 ## Likes
 - Machine Learning
@@ -14,7 +15,8 @@ University: Shibaura Institute of Technology <br>
 - Nim(conpetitive programming, hobby)
 
 ## Works
-- [Time Keeper](https://yosaka1138.github.io/timekeeper)(forked from [maruta](https://github.com/maruta/timekeeper))
+- [Time Keeper](https://yosaka1138.github.io/timekeeper)(forked from [maruta](https://github.com/maruta/timekeeper)) <br>
   use for presentations
-- [py2arduino](https://github.com/yosaka1138/py2arduino)
+
+- [py2arduino](https://github.com/yosaka1138/py2arduino) <br>
   py2arduino is a library for operating arduino by python with pyfirmata. This is easier to write code than original pyfirmata.
