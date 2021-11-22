@@ -1,7 +1,7 @@
 ## About
 
-Name: Yasuhiro OSAKA
-University: Shibaura Institute of Technology
+Name: Yasuhiro OSAKA <br>
+University: Shibaura Institute of Technology <br>
 
 ## Likes
 - Machine Learning
