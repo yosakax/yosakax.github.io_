@@ -22,3 +22,6 @@
   py2arduino is a library for operating arduino by python with pyfirmata. This is easier to write code than original pyfirmata.
 
 ## [Blog](https://yosaka1138.github.io/blog/top)
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0NT4RRDNZG"></script>
